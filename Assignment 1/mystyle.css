@@ -1,0 +1,61 @@
+h1{
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: center;
+  letter-spacing: 10px;
+  word-spacing: 30px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  text-decoration-style: wavy; 
+  text-decoration-color: rgb(11, 252, 11);
+  background-color: deeppink;
+  background-size: 900px;
+  background-blend-mode: luminosity;
+  font-size: 80px;
+ 
+}
+
+h2{
+  font-family: fantasy;
+  font-weight: lighter;
+  font-stretch: wider;
+  font-size: 50px;
+  color: darkmagenta; 
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration: blueviolet;
+  word-spacing: 10px;
+  
+}
+
+h3 {
+    background-color: rgb(16, 238, 16); 
+    font-size: 25px;
+    color: rgb(196, 101, 167);
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+    border-bottom: solid;
+    border-width: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+
+  .text {
+      line-height: 2;
+      font-size: 18px;
+      width: 80%;
+      text-transform: uppercase;
+  }
+  .blue-bg {
+      background-color: rgb(173, 216, 230);
+  }
+.green-bg {
+  background-color: lightgreen;
+}
+mark{
+  background-color: lightpink;
+}
